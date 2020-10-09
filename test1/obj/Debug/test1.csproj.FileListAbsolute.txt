@@ -1,0 +1,16 @@
+C:\Users\sarbaev\Desktop\test\test1\obj\Debug\test1.csprojAssemblyReference.cache
+C:\Users\sarbaev\Desktop\test\test1\obj\Debug\test1.csproj.ResolveComReference.cache
+C:\Users\sarbaev\Desktop\test\test1\obj\Debug\test1.Form1.resources
+C:\Users\sarbaev\Desktop\test\test1\obj\Debug\test1.Properties.Resources.resources
+C:\Users\sarbaev\Desktop\test\test1\obj\Debug\test1.csproj.GenerateResource.cache
+C:\Users\sarbaev\Desktop\test\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
+C:\Users\sarbaev\Desktop\test\test1\obj\Debug\test1.pdb
+C:\Users\sarbaev\Desktop\test\test1\bin\Debug\test1.exe.config
+C:\Users\sarbaev\Desktop\test\test1\bin\Debug\test1.exe
+C:\Users\sarbaev\Desktop\test\test1\bin\Debug\test1.pdb
+C:\Users\sarbaev\Desktop\test\test1\obj\Debug\test1.exe
+C:\Users\sarbaev-dv\Desktop\test\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\sarbaev-dv\Desktop\test\test1\obj\Debug\test1.csproj.ResolveComReference.cache
+C:\Users\sarbaev-dv\Desktop\test\test1\obj\Debug\test1.Form1.resources
+C:\Users\sarbaev-dv\Desktop\test\test1\obj\Debug\test1.Properties.Resources.resources
+C:\Users\sarbaev-dv\Desktop\test\test1\obj\Debug\test1.csproj.GenerateResource.Cache
